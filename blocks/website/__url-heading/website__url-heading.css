@@ -1,0 +1,14 @@
+.website__url-heading {
+    color: #AAA;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    margin: 0;
+    padding: 0;
+}
+
+@media screen and (max-width: 1279px) {
+    .website__url-heading {
+        line-height: 20.4px;
+    }
+}

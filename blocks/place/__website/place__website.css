@@ -1,0 +1,20 @@
+.place__website {
+    width: calc(100% - 2 * 16px);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+}
+
+@media screen and (max-width: 767px) {
+    .place__website {
+        width: calc(100% - 2 * 16px);
+        margin: 0 auto;
+    }
+}
