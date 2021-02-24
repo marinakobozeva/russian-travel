@@ -1,10 +1,10 @@
 .header__lang-links {
-    display: -ms-grid;
-    display: grid;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    -ms-grid-columns: 1fr 18px 1fr;
-    grid-template-columns: repeat(2, 1fr);
-    grid-column-gap: 18px;
+  display: -ms-grid;
+  display: grid;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  -ms-grid-columns: 1fr 18px 1fr;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 18px;
 }

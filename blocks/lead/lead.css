@@ -1,26 +1,26 @@
 .lead {
-    width: calc(100% - 2 * 100px);
-    margin: 56px auto 92px;
+  width: calc(100% - 2 * 100px);
+  margin: 56px auto 92px;
 }
 
 @media screen and (max-width: 1279px) {
-    .lead {
-        width: calc(100% - 2 * 48px);
-        margin: 48px auto 92px;
-    }
+  .lead {
+    width: calc(100% - 2 * 48px);
+    margin: 48px auto 92px;
+  }
 }
 
 @media screen and (max-width: 1023px) {
-    .lead {
-        width: 100%;
-        margin: 48px 0 88px;
-    }
+  .lead {
+    width: 100%;
+    margin: 48px 0 88px;
+  }
 }
 
 @media screen and (max-width: 767px) {
-    .lead {
-        width: 100%;
-        margin: 48px 0 64px;
-    }
+  .lead {
+    width: 100%;
+    margin: 48px 0 64px;
+  }
 }
 
