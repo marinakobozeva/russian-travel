@@ -22,7 +22,6 @@
 @media screen and (max-width: 1023px) {
   .photo-grid {
     width: calc(100% - 2 * 24px);
-    margin: 0 auto;
     -ms-grid-columns: 1fr 16px 1fr;
     grid-template-columns: repeat(2, 1fr);
     grid-column-gap: 16px;
@@ -33,7 +32,6 @@
 @media screen and (max-width: 767px) {
   .photo-grid {
     width: calc(100% - 2 * 16px);
-    margin: 0 auto;
     -ms-grid-columns: (1fr)[1];
     grid-template-columns: repeat(1, 1fr);
     grid-row-gap: 12px;

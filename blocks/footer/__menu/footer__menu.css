@@ -18,24 +18,4 @@
     grid-template-rows: repeat(5, auto);
     grid-row-gap: 32px;
   }
-  .footer__menu > *:nth-child(1) {
-    -ms-grid-row: 1;
-    -ms-grid-column: 1;
-  }
-  .footer__menu > *:nth-child(2) {
-    -ms-grid-row: 3;
-    -ms-grid-column: 1;
-  }
-  .footer__menu > *:nth-child(3) {
-    -ms-grid-row: 5;
-    -ms-grid-column: 1;
-  }
-  .footer__menu > *:nth-child(4) {
-    -ms-grid-row: 7;
-    -ms-grid-column: 1;
-  }
-  .footer__menu > *:nth-child(5) {
-    -ms-grid-row: 9;
-    -ms-grid-column: 1;
-  }
 }

@@ -2,6 +2,7 @@
   min-height: 740px;
   background-image: url(../../images/cover__background.png);
   background-size: cover;
+  background-position: center;
 }
 
 @media screen and (max-width: 1279px) {
