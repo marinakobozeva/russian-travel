@@ -6,7 +6,7 @@
   margin: 0;
   padding: 0;
   text-transform: uppercase;
-  letter-spacing: .15em;
+  letter-spacing: .2em;
 }
 
 @media screen and (max-width: 1023px) {
